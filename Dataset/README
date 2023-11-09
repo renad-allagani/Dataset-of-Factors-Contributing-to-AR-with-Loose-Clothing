@@ -1,0 +1,27 @@
+
+Hello, 
+
+The following key folders and files are in path: TheDataset/libsvm-3.31/matlab   
+
+Raw Data Collection Folders: 
+DataCollection_ScotchYoke
+DataCollection_RobotArm
+
+Classification Scripts: 
+freqClass_ScotchYoke.m
+freqClass_RobotArm.m
+planeClass_RobotArm.m
+
+Workspaces Folders: 
+Workspaces_ScotchYoke
+Workspaces_RobotArm
+Workspaces_RobotArm_Plane
+
+Plot Scripts mentioned in Report: 
+plot_RobotArtm_results.m
+plot_ScotchYoke_results.m
+
+Other Plot Scripts: 
+plots_ScotchYoke.m
+plots_RobotArm.m
+plots_RobotArm_plane.m
