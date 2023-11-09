@@ -1,4 +1,3 @@
-
 This is the supplementary material for the Proceeding Paper "Analysing the contributing Factors to Activity Recognition with Loose Clothing" - Renad Allagani, Tianchen Shen, and Matthew Howard. 
 
 1-The first folder consists of the CAD file for the scotch yoke design. 
