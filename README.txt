@@ -8,6 +8,8 @@ This is the supplementary material for the Proceeding Paper "Analysing the contr
 
 4_DataCollection_ClassificationCode_Plots Folder consists of dataset collected with the scotch yoke and KUKA manipulator, in addition to the SVM frequency classification MATLAB scripts, and results.  
 
+5_ProceedingFigures Folder consists of the figures (enlarged) as shown in the Proceeding Paper
+
 The following key folders and files are in path: 4_DataCollection_ClassificationCode_Plots/libsvm-3.31/matlab   
 
 Raw Data Collection Folders: 
